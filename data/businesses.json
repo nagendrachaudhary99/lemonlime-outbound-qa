@@ -1,0 +1,4 @@
+[
+  {"name": "Joe's Bakery", "facts": {"price_sourdough": "$8", "hours": "Tue-Sun 7am-2pm", "special": "20% off day-old bread", "location": "Castro, SF"}, "voice_notes": "friendly, plain, warm, never pushy"},
+  {"name": "Bright Smile Dental", "facts": {"new_patient_special": "$99 cleaning", "insurance": "Delta, Cigna, Aetna", "location": "Austin"}, "voice_notes": "professional, reassuring, no pressure"}
+]

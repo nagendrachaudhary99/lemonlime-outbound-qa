@@ -1,0 +1,7 @@
+[
+  {"draft_id": "D1", "business": "Joe's Bakery", "channel": "email", "subject": "Day-old sourdough, 20% off", "body": "Hi neighbor - yesterday's sourdough is 20% off today. We're at it Tue-Sun 7am-2pm in the Castro. Come say hi.", "has_unsubscribe": true},
+  {"draft_id": "D2", "business": "Joe's Bakery", "channel": "email", "subject": "FREE cake, act now!!", "body": "ACT NOW - FREE cake with every order, LIMITED TIME only! Best bakery in SF, guaranteed!", "has_unsubscribe": true},
+  {"draft_id": "D3", "business": "Bright Smile Dental", "channel": "email", "subject": "Your new patient visit", "body": "New patient cleanings are $99, and we take Delta, Cigna, and Aetna. Happy to answer questions anytime.", "has_unsubscribe": false},
+  {"draft_id": "D4", "business": "Bright Smile Dental", "channel": "sms", "body": "New patient special: $99 cleaning this month at Bright Smile Dental, Austin. Reply to book.", "has_unsubscribe": true},
+  {"draft_id": "D5", "business": "Joe's Bakery", "channel": "email", "subject": "50% off everything", "body": "This week only: 50% off everything in the shop!", "has_unsubscribe": true}
+]
